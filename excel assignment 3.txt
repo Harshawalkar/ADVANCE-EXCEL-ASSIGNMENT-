@@ -1,0 +1,80 @@
+1    How and when to use the AutoSum command in excel?
+ans= If you need to sum a column or row of numbers, let Excel do the math for you. 
+     Select a cell next to the numbers you want to sum, select AutoSum on the Home 
+     tab,press Enter, and you're done.When you select AutoSum, Excel automatically 
+     enters a formula (that uses the SUM function) to sum the numbers.You can use 
+     the AutoSum tool to add up values in ranges through a single-click function.
+     The AutoSum tool, which you'll find on both the Home tab and Formulas tab of   
+     the Ribbon, contains a set of quick single-click functions.To use these commands,
+     select the range of data and then choose the appropriate function.
+
+2      What is the shortcut key to perform AutoSum?
+ans =The Autosum Excel Function[1] can be accessed by typing ALT + the = sign in a 
+           spreadsheet, and it will automatically create a formula to sum all the numbers
+           in a continuous range. This function is a great way to speed up your financial analysis.
+          The keyboard shortcut for AutoSum in Excel is Alt + =:
+           (1)  Place the cursor below the column or to the left of the row of numbers you want to add
+           (2)  Press and hold the Alt key
+           (3)   Press the equals sign (=)
+           (4)  Press Enter .
+
+3      How do you get rid of Formula that omits adjacent cells?
+ans= To turn off the notification "Formula Omits Adjacent Cells
+            " you're getting, kindly follow the steps below:  
+            (1)  Open  Excel and then click on File.
+            (2)  Go to Options and then select Formulas.
+            (3)  Look for Error checking rules and uncheck Formulas which omit cells in a region.
+             (4)  Click OK.
+ 
+4      How do you select non-adjacent cells in Excel 2016?
+ans=  To select non-adjacent cells in Excel, you can:
+        (1)  Hold down the Ctrl key on your keyboard
+        (2) Click   on the first cell you want to select
+        (3)While holding down Ctrl, click on each additional cell you want to select
+        (4)When you're done, release the Ctrl key 
+    If you accidentally select a cell you didn't want to, you can click on it to deselect it. 
+    You can also select a range of cells by:
+       * Selecting a cell, then dragging the left mouse button over the other cells
+       *Using the Shift + arrow keys to select the range 
+     To select non-adjacent cells and cell ranges, hold Ctrl and select the cells.
+
+5    What happens if you choose a column, hold down the Alt key and press the letters
+ocw in quick succession?
+ans=  Press the Alt key to display the ribbon shortcuts, called Key Tips,
+           as letters in small images next to the tabs and options as shown in 
+          the image below. You can combine the Key Tips letters with the Alt
+          key to make shortcuts called Access Keys for the ribbon options.
+
+6  If you right-click on a row reference number and click on Insert, where will the row
+be added?
+ans=  To insert a single row: Right-click the whole row above which you want to 
+             insert the new row, and then select Insert Rows. To insert multiple rows: 
+             Select the same number of rows above which you want to add new ones. 
+              Right-click the selection, and then select Insert Rows.
+           (1) Select the row below where you want to insert a new row.
+                 To highlight the entire row, click on its number.
+           (2)Choose any of the following techniques to add a new row:
+                Right-click and select Insert from the context menu. 
+                Use the ribbon: Home tab > Insert > Insert Sheet Rows.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
