@@ -1,0 +1,72 @@
+q.1  Using Insert Function, give examples of any function available in the different dropdowns present in the function library.
+     For example AutoSum, Recently Used, Text, Date & Time, etc.
+ANS: To illustrate Excel's function library, here are examples of functions from different categories, accessed via the "Insert
+     Function" dialog box, including "AutoSum", "Recently Used", "Text", "Date & Time", and others: 
+   1. AutoSum:
+SUM: Calculates the sum of a range of cells (e.g., =SUM(A1:A10)). 
+AVERAGE: Calculates the average of a range of cells (e.g., =AVERAGE(B1:B5)). 
+COUNT: Counts the number of cells in a range that contain numbers (e.g., =COUNT(C1:C20)). 
+MAX: Returns the largest value in a range (e.g., =MAX(D1:D10)). 
+MIN: Returns the smallest value in a range (e.g., =MIN(E1:E15)). 
+   2. Recently Used:
+This section displays functions you've used recently, making it easy to access them again. 
+   3. Text:
+CONCATENATE: Combines text strings from different cells into one (e.g., =CONCATENATE(A1, " ", B1)). 
+LEFT: Returns the leftmost characters of a text string (e.g., =LEFT(A1, 3)). 
+RIGHT: Returns the rightmost characters of a text string (e.g., =RIGHT(A1, 2)). 
+LEN: Returns the number of characters in a text string (e.g., =LEN(A1)). 
+TRIM: Removes extra spaces from a text string (e.g., =TRIM(A1)). 
+TEXT: Converts a value to text with a specific format (e.g., =TEXT(A1, "mm/dd/yyyy") to format a date). 
+   4. Date & Time:
+TODAY: Returns the current date (e.g., =TODAY()). 
+NOW: Returns the current date and time (e.g., =NOW()). 
+DATE: Returns a date given year, month, and day (e.g., =DATE(2025, 3, 21)). 
+TIME: Returns a time given hour, minute, and second (e.g., =TIME(10, 30, 0)). 
+DAY: Returns the day of the month (e.g., =DAY(A1)). 
+MONTH: Returns the month of the year (e.g., =MONTH(A1)). 
+YEAR: Returns the year (e.g., =YEAR(A1)). 
+   5. Financial:
+PMT: Calculates the payment for a loan (e.g., =PMT(rate, nper, pv)).
+RATE: Calculates the interest rate per period (e.g., =RATE(nper, pmt, pv)).
+PV: Calculates the present value of an investment (e.g., =PV(rate, nper, pmt)).
+FV: Calculates the future value of an investment (e.g., =FV(rate, nper, pmt)). 
+  6. Logical:
+IF:
+Performs a logical test and returns one value if the test is true and another value if the test is false
+ (e.g., =IF(A1>10, "Greater", "Not Greater")).
+AND:
+Returns TRUE if all arguments are TRUE, otherwise FALSE (e.g., =AND(A1>10, B1<20)). 
+
+
+Q.2  What are the different ways you can select columns and rows?
+ANS:  Pressing CTRL+SHIFT+ARROW key a second time selects the entire row or column. Drag across the row or column headings. 
+      Or select the first row or column; then hold down SHIFT while you select the last row or column.
+
+
+Q.3  What is AutoFit and why do we use it?
+ANS: AutoFit, in the context of programs like Excel, is a feature that automatically resizes columns and rows to fit the 
+     content within each cell, ensuring all data is visible without being cut off. We use it to quickly and easily format 
+     spreadsheets for readability and to avoid having to manually adjust column widths and row heights.Excel's AutoFit feature 
+	 is designed to automatically resize cells in a worksheet to accommodate different sized data without having to manually 
+	 change the column width and row height.
+	 
+	 
+Q.4  How can you insert new rows and columns into the existing table?
+ANS: Click in a cell above or below where you want to add a row. On the Table Layout tab, do one of the following: To add a 
+     row above the cell, select Insert Above in the Rows and Columns group. To add a row below the cell, select Insert Below in the
+     Rows and Columns group.
+
+
+Q.5  How do you hide and unhide columns in excel?
+ANS: On the Home tab, in the Cells group, select Format. Do one of the following: Under Visibility, select Hide & Unhide, and 
+     then select Unhide Rows or Unhide Columns.	 	
+ 
+ 
+ Q.6  Create an appropriate table within the worksheet and use different functions available in the AutoSum command.
+ANS: Here's how to create a table and utilize different AutoSum functions in a spreadsheet, along with an example table:
+     Create a Table:
+                    Select the Data: Highlight the cells that will form your table.
+                    Format as Table: Go to the "Home" tab, click "Format as Table".
+                    Choose a Style: Select a table style from the options.
+                    Confirm Header Row (Optional): If the first row contains headers, ensure "My table has headers" is checked.
+                    Click OK: The table is now created.
