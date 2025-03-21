@@ -1,0 +1,112 @@
+Q.1 What do you mean by AutoComplete feature in Excel and what are the
+    benefits of using this feature?
+ANS:In Excel, "AutoComplete" (or "AutoFill") is a feature that automatically suggests and completes data entries as you type,
+    based on existing data in the same column, saving time and effort, especially when dealing with repetitive or patterned 
+	data.AutoComplete helps you quickly insert functions and arguments while minimizing typing and syntax errors. The AutoComplete
+	menu shows you available options based on context, and you choose what you want to insert into your formula. 	
+	
+
+Q.2 Explain working with workbooks and working with cells.
+ANS:In Excel, a workbook is the file that contains one or more worksheets, and each worksheet consists of cells organized into
+    rows and columns where you can enter and manipulate data. 
+   
+   Workbooks:
+    Definition: A workbook is essentially an Excel file, and it can hold multiple spreadsheets, also known as worksheets. 
+    Creating: You can create a new workbook from a blank template or from a pre-existing template. 
+    Saving: Once you've created and worked with a workbook, it's crucial to save it to avoid losing your data. 
+	Organization: Workbooks help organize data by allowing you to store multiple related spreadsheets in a single file. 
+   
+   Worksheets:
+   Definition: A worksheet is a single spreadsheet within a workbook, consisting of a grid of cells. 
+   Cells: Each box in the worksheet is a cell, identified by its column letter and row number (e.g., A1, B5). 
+   Cell Content: Cells can contain text, numbers, dates, or formulas. 
+   Manipulating Data: You can enter, edit, and manipulate data within cells, perform calculations, and format the data as needed. 
+   Worksheet Management: You can add, delete, and rename worksheets within a workbook as needed. 	
+	
+	
+Q.3 What is fill handle in Excel and why do we use it?
+ANS:In Excel, the fill handle is the small, black square in the bottom-right corner of a cell, used to quickly copy data, 
+    formulas, or formatting to adjacent cells, or to create sequences. 
+    What it is: The fill handle is a visual cue that indicates a cell is ready to be used for filling or copying data. 
+    How to use it: 
+	Copying: Select the cell with the data, formula, or formatting, then click and drag the fill handle across the desired 
+	range of cells. 
+    Creating Sequences: Enter the starting value and the next value in the sequence, then select both cells and drag the fill
+    Why its useful :
+    Efficiency: It saves time and effort by automating the process of copying data, formulas, or formatting. 
+    Accuracy: It helps to avoid errors that can occur when manually copying and pasting data. 
+    Flexibility: It can be used to create a variety of sequences, such as numbers, dates, or text. 
+    Examples:
+             Copying a formula down a column to calculate values for multiple rows. 
+             Creating a sequence of dates, such as a list of weekdays or months. 
+             Copying formatting, such as bold text or a specific font, to other cells. 	
+	
+	
+Q.4 Give some examples of using the fill handle.
+ANS:In the example: The linear sequence is started by entering 1 and 2 (figure 1). Click the cursor on the black square 
+    at the bottom right (Fill Handle) then drag down as far as you want Excel to autofill. Release the mouse button and Excel 
+    will fill the column with the linear series (figure 2).	
+	
+	
+Q.5 Describe flash fill and what the different ways to access the flash fill are.
+ANS:Flash Fill in Excel is a feature that automatically fills data based on patterns it detects, simplifying tasks like 
+    extracting data, joining names, or reformatting numbers. You can access it via the Data tab, by pressing Ctrl+E, or by using 
+    the fill handle and selecting Flash Fill. 	
+	
+	
+Q.6 Extract first name and last name from the mail id and then from the
+address column, extract the city, state, and pin code using the flash fill.
+Given below is an example of the columns you have to create. Paste the
+screenshot of what you have created using the flash fill command.
+Example: Mail Id, Address, First name, Last name, State, City, Pincode
+ANS:To extract names and address details using Flash Fill in Excel, you can input the first few entries manually, and then 
+    Excel will recognize the pattern and automatically fill the remaining cells with the extracted data. 
+    Here's a step-by-step guide:
+    1. Input Data:
+       Mail ID Column: Enter the email addresses in a column (e.g., Column A).
+       Address Column: Enter the full addresses in another column (e.g., Column B).
+       New Columns: Create new columns for "First name", "Last name", "State", "City", and "Pincode" (e.g., Columns C, D, E, F,
+	   and G respectively).
+    2. Extract First Name:
+       First Entry:In the first cell of the "First name" column (e.g., C2), manually enter the first name from the 
+	   corresponding email address in Mail ID column (e.g., A2).
+       Flash Fill:Select the cell (C2) and press Ctrl+E (or Cmd+E on Mac) to activate Flash Fill. Excel will automatically fill
+	   down the column with the first names.
+    3. Extract Last Name:
+       First Entry:In the first cell of the "Last name" column (e.g., D2), manually enter the last name from the corresponding
+	   email address in Mail ID column (e.g., A2).
+       Flash Fill: Select the cell (D2) and press Ctrl+E (or Cmd+E on Mac) to activate Flash Fill. Excel will automatically 
+	   fill down the column with the last names.
+    4. Extract City, State, and Pincode:
+       First entry: In the first cell of the "City" column (e.g., F2), manually enter the city from the corresponding address 
+	   in the Address column (e.g., B2).
+       Flash Fill: Select the cell (F2) and press Ctrl+E (or Cmd+E on Mac) to activate Flash Fill. Excel will automatically
+	   fill down the column with the cities.
+       Repeat for State and Pincode: Follow the same steps for extracting State and Pincode, entering the first few entries
+	   manually and then using Flash Fill.	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
