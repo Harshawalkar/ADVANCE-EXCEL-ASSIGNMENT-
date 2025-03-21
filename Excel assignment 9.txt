@@ -1,0 +1,111 @@
+Q.1 What are the different margins options and do we adjust the margins of
+    the excel worksheet?
+ANS:To use predefined margins, click Normal, Wide, or Narrow. Tip: If you previously used a custom margin setting, that setting
+    is available as the Last Custom Setting option. To specify custom page margins, click Custom Margins and then—in the Top, 
+	Bottom, Left, and Right boxes—enter the margin sizes that you want.
+
+
+Q.2 Set a background for your table created.
+ANS:In the table cell tag <td> where you would like to place the background image, paste the image attributes and values. 
+    Change the src= attribute name to the background= attribute. Also, change xt='SPIMAGE' to xt='SPCELL' .
+
+
+Q.3 What is freeze panes and why do we use freeze panes? Give examples.
+ANS:In spreadsheet applications like Excel, "freeze panes" allows you to lock specific rows or columns in place, so they 
+    remain visible while you scroll through the rest of the data, useful for keeping headers or important data in view. To 
+	keep an area of a worksheet visible while you scroll to another area of the worksheet, go to the View tab, where you can 
+	Freeze Panes to lock specific rows and columns in place, or you can Split panes to create separate windows of the same worksheet.
+
+Q.4 What are the different features available within the Freeze Panes command?
+ANS:The "Freeze Panes" command in Excel offers three options: "Freeze Panes", "Freeze Top Row", and "Freeze First Column", 
+    allowing you to keep specific rows or columns visible while scrolling through a large spreadsheet. 
+    Here's a breakdown of each option:
+    Freeze Panes: This option freezes the rows above and columns to the left of the currently selected cell, keeping those 
+	cells visible as you scroll. 
+    Freeze Top Row: This freezes the first visible row of the active spreadsheet, ensuring it remains visible as you scroll 
+	down. 
+    Freeze First Column: This freezes the first visible column of the active spreadsheet, keeping it visible as you scroll to
+	the right. 
+
+
+
+Q.5 Explain what the different sheet options present in excel are and what they do?
+ANS:Sheet level options are options that are specific to the worksheet for which they are set. Sheet options are applicable 
+    only in Excel. You do not set sheet options in Word or PowerPoint.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
