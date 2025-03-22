@@ -1,0 +1,137 @@
+Q.1 What are comments and what is the importance if commenting in any code?
+ANS:A comment is basically a text note that gives an explanation about the source code. Furthermore, they act as documentation
+    in the source code. We include comments to increase the readability of the program. Besides, comments make it easy for the 
+	programmer to remember the complex things added to the code.
+
+Q.2 What is Call Statement and when do you use this statement?
+ANS:In programming, a "call statement" transfers control from one part of a program to another, typically a function or 
+    subroutine, allowing modularity and code reuse. You use it to execute a specific block of code that is defined elsewhere. 
+    Here's a more detailed explanation:
+    What it does: A call statement instructs the program to execute a specific subroutine or function, which is a separate
+	block of code that performs a particular task. 
+    Syntax: The exact syntax varies depending on the programming language, but it generally involves the keyword "CALL" 
+	followed by the name of the subroutine or function, and optionally, any arguments that need to be passed to it. 
+    When to use it:
+    Modularity: When you want to break down a complex program into smaller, manageable units of code. 
+    Code Reusability: When you want to use the same block of code in multiple places within your program or even in other 
+	programs. 
+    Organization: When you want to improve the readability and maintainability of your code. 
+    Examples:
+    COBOL: CALL "SUBROUTINE" USING param1, param2 
+    Java: myObject.myMethod(arg1, arg2); 
+    Visual Basic: Call MySub(arg1, arg2) 
+    In essence, the call statement is a fundamental tool for organizing and structuring code, making it easier to write, read,
+	and maintain larger programs. 
+
+
+Q.3 How do you compile a code in VBA? What are some of the problem that you might face when you don’t compile a code?
+ANS:You can compile your VBA code by clicking Debug Menu → Compile VBA Project. A compile error for a missing “End if” part of 
+    an IF statement. Every individual line in the code is correct, but together, they don't represent a complete IF statement.
+
+
+Q.4 What are hot keys in VBA? How can you create your own hot keys?
+ANS:Function Keys. F1. Displays help on a keyword or (Help > Microsoft Visual Basic for Applications Help). ...
+    Shift + Function. Shift + F2. ...
+    Ctrl + Function. Ctrl + F2. ...
+    Other + Function. Alt + F4. ...
+    Ctrl + Letters. Ctrl + A. ...
+    Other + Letters. Alt + A. ...
+    Entering. Shift + Insert. ...
+    Selecting. Shift + Home.
+
+
+Q.5 Create a macro and shortcut key to find the square root of the following numbers 665, 89, 72, 86, 48, 32, 569, 7521
+ANS:On the Developer tab, in the Code group, click Macros. Or press the Alt + F8 shortcut. In the dialog box that shows up, 
+    select the macro of interest, and then click Run.
+    665: ≈ 25.80
+    89: ≈ 9.43
+    72: ≈ 8.49
+    86: ≈ 9.27
+    48: ≈ 6.93
+    32: ≈ 5.66
+    569: ≈ 24.08
+    7521: ≈ 86.72
+
+
+
+Q.6 What are the shortcut keys used to
+a. Run the code
+b. Step into the code
+c. Step out of code
+d. Reset the code
+ANS:Here are the common shortcut keys for running, stepping into/out of, and resetting code, generally applicable to various  
+    IDEs and programming environments: 
+    a. Run the code: F5 or Ctrl+Shift+R
+    b. Step into the code: F11 or Shift+F11
+    c. Step out of code: Shift+F11
+    d. Reset the code: Ctrl+Shift+D or Ctrl+Shift+K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
