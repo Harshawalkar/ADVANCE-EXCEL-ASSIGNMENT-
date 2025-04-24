@@ -1,0 +1,22 @@
+Q.1 What is the total amount of stationary bought from Madhya Pradesh? 
+ANS:Total stationary amount from Madhya Pradesh: If the dataset contains 300 worth of stationary from Madhya Pradesh, 
+    the answer is ₹300.
+
+
+Q.2 What is the total count of stationary bought from Tamilnadu?	
+ANS:Total count of stationary from Tamilnadu: If the dataset contains 25 items of stationary from Tamilnadu,the answer is 25.
+
+
+
+Q.3 What is the total amount spent on footwear?
+ANS:Total footwear amount: If the dataset contains 1000 worth of footwear, the answer is ₹1000.
+
+
+
+Q.4 What is the total amount of money spent for stationary in July?
+ANS:Total July stationary amount: If the dataset shows ₹500 spent on stationary in July, the answer is ₹500.
+
+
+
+Q.5 What is the count of footwear that is coming from Delhi?
+ANS:Footwear count from Delhi: If the dataset shows 15 pairs of footwear from Delhi, the answer is 15.
